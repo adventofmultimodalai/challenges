@@ -1,0 +1,86 @@
+# 🎄✨ Holiday Hackathon: Unleash the Magic of Intel Geti and Intel Tiber Cloud! ✨🎄
+
+## 🌟 Description:
+Get ready for a *festive explosion of creativity and innovation!* 🎉 This holiday season, join a 24-hour hackathon where developers, data scientists, and AI enthusiasts come together to *unwrap the potential* of Intel Geti and Intel Tiber Cloud. 
+
+Your challenge: **Create your own holiday-themed dataset**, craft a **visual AI model** to analyze it, and generate **insightful, fun outputs** using a **large language model (LLM)**. Whether you're detecting sparkling holiday decorations, classifying festive treats, or uncovering trends in Christmas gifts, this is your chance to let your imagination shine! ✨
+
+The possibilities are endless, and the goal is simple: **Tell a magical story through AI, blending vibrant visuals, clever insights, and a sprinkle of holiday cheer.** 🎅🎁
+
+---
+
+## ❄️ Challenge Overview:
+
+### 🎥 Step 1: Create Your Dataset
+**Capture the magic of the season!** Instead of relying on pre-made datasets, you’ll build your own unique collection of holiday-themed images.
+
+**🎯 How to Collect:**
+- Snap photos of twinkling decorations, cozy holiday treats, or snowy winter scenes. 📸❄️
+- Search for cheerful images of Christmas trees, sparkling lights, or festive markets. 🌟🎄
+- Combine your personal favorites with online treasures for a dataset full of holiday spirit. ✨
+
+---
+
+### 🧠 Step 2: Train Your Visual AI Model with Intel Geti
+Transform your dataset into something extraordinary! With Intel Geti, create a model that detects and classifies the festive joy you’ve captured.
+
+**🛠️ How to Train:** 
+- Upload your dataset to Intel Geti, label your images, and train a model for object detection, classification, or segmentation. 
+
+**🎄 Example Use Cases:**
+- Count and label Christmas ornaments glistening on a tree. 🎄✨
+- Identify and sort beautifully wrapped gifts by patterns or colors. 🎁🎀
+- Detect whimsical winter objects like snowmen, sleighs, or reindeer. ⛄🛷
+
+---
+
+### ⚡ Step 3: Use the Geti SDK for Model Inference
+Bring your trained model to life with the Intel Geti SDK! Use it to generate dazzling processed images or videos, complete with detailed detections and labels. Watch your AI transform holiday scenes into data-driven art! 🎥🌟
+
+---
+
+### 🤖 Step 4: Generate Insights with an LLM
+Take your project to the next level by combining visual AI outputs with the analytical power of an LLM. 🎉
+
+**🎨 Example Ideas:**
+- *Playful Reports*: “80% of your photos feature gingerbread cookies—yum!” 🍪✨
+- *Creative Ideas*: “Sort gifts by size to build a perfect gift pyramid!” 🎁⛰️
+- *Trendy Insights*: “Gold wrapping paper is trending in your dataset!” 🌟📊
+
+---
+
+## 🎯 Final Submission Requirements:
+**What to Submit:**
+1. **Processed Outputs:**
+   - A video or set of images showing your AI’s magical detections and labels.
+   
+2. **LLM Insights/Report:**
+   - A creative summary blending detected data with insightful and playful observations.
+
+3. **Solution Explanation:**
+   - A brief description (PDF or video) sharing:
+     - How you created your dataset. 🎥📂
+     - The workflow you followed in Intel Geti. 🧠
+     - How you used the Geti SDK and LLM. 🤖
+
+---
+
+## 🎁 Evaluation Criteria:
+Your submission will be judged on:
+
+1. **🎨 Creativity:**
+   - Does your project shine with originality and holiday flair?
+
+2. **💻 Technical Execution:**
+   - How effectively did you use Intel Geti, the SDK, and LLMs?
+
+3. **📜 Clarity:**
+   - Are your outputs, insights, and explanations clear and compelling?
+
+4. **🎅 Holiday Spirit:**
+   - Does your project sparkle with the magic of the festive season? 
+
+---
+
+## 🌟 Let’s Make AI Festive!
+🎄✨ Whether you're detecting shimmering ornaments, analyzing trends in holiday markets, or crafting magical AI-driven stories, this is your time to spread cheer and innovation. So grab your *favorite holiday sweater*, let your imagination soar, and join the adventure of blending **multimodal AI** with the joy of the season. Let’s make this hackathon unforgettable! 🎉🎅
