@@ -27,7 +27,7 @@ Here’s how to generate a *compelling storyline* for your cartoon strip:
 import requests
 
 PHI3_URL = "https://cu-vertical-dimensional-continuity.trycloudflare.com/phi3/generate"
-PHI3_TOKEN = "your_phi3_token"
+PHI3_TOKEN = "TOKEN_PROVIDED" # Use the Token provided in the API docs: https://github.com/adventofmultimodalai/resources/blob/main/api.md#phi3-api-guide
 
 def generate_story_outline(prompt):
     headers = {
