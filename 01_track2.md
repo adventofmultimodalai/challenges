@@ -22,7 +22,7 @@ Participants will design and implement a system that automates the *entire proce
 ## 🛠️ **Get Started with Sample Code**
 
 ### **Step 1: Generate a Story Outline (Phi3 API)** 📝
-Here’s how to generate a *compelling storyline* for your cartoon strip:
+Here’s is a high level overview to generate a *compelling storyline* for your cartoon strip:
 ```python
 import requests
 
@@ -84,6 +84,8 @@ generate_image("A puppy and a robot in a futuristic cityscape with neon lights."
 Combine your visuals and story into a *beautiful cartoon strip*:
 - Use **Python’s Pillow library** to format images, add captions, and create a cohesive layout.
 - Export your final product as a *slideshow, web page, or PDF*.
+
+> Note: You could use multiple passes to models to generate, validate and ensure consistency
 
 ---
 
