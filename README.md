@@ -11,7 +11,7 @@ Day 1 of our hack consists of **two unique challenges**. Select one based on you
 ---
 
 ## 🛤️ Track A: AI-Powered Creativity and Storytelling
-- **Goal:** Build a **cartoon strip generator** that transforms a story prompt into a cohesive narrative with visuals.  
+- **Goal:** Build a **manga strip generator** that transforms a story prompt into a cohesive narrative with visuals.  
 - **Perfect for:** Those who love **storytelling**, **design**, and working with **generative AI models**.  
 📝 [Read the Challenge Description for Track A](./01_a.md)
 
