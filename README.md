@@ -10,25 +10,23 @@ Day 1 of our hack consists of **two unique challenges**. Select one based on you
 
 ---
 
-## 🛤️ **Track A: AI-Powered Creativity and Storytelling**
-- Build a **cartoon strip generator** that transforms a story prompt into a cohesive narrative with visuals.
-- Ideal if you enjoy **storytelling**, **design**, and working with **generative AI models**.
-
+## 🛤️ Track A: AI-Powered Creativity and Storytelling
+- **Goal:** Build a **cartoon strip generator** that transforms a story prompt into a cohesive narrative with visuals.  
+- **Perfect for:** Those who love **storytelling**, **design**, and working with **generative AI models**.  
 📝 [Read the Challenge Description for Track A](./01_a.md)
 
 ---
 
-## 🛤️ **Track B: Intelligent Collaboration and Interaction**
-- Train a **visual AI model** using **Intel Geti** and create a holiday-themed project with **AI-powered insights**.
-- Perfect for those who love **hands-on computer vision projects** and **collaborative AI tools**.
-
+## 🛤️ Track B: Intelligent Collaboration and Interaction
+- **Goal:** Train a **visual AI model** using **Intel Geti** and create a holiday-themed project with AI-powered insights.  
+- **Perfect for:** Those who enjoy **hands-on computer vision projects** and **collaborative AI tools**.  
 📝 [Read the Challenge Description for Track B](./01_b.md)
 
 ---
 
-## 📝 **How to Choose**
-- If you’re drawn to **storytelling** and **creative applications**, start with **Track A**.
-- If you’re excited about **training custom AI models** and exploring **visual intelligence**, pick **Track B**.
+## 📝 How to Choose
+- If you’re drawn to **storytelling** and **creative applications**, start with **Track A**.  
+- If you’re excited about **training custom AI models** and exploring **visual intelligence**, pick **Track B**.  
 
-✨ No matter which track you choose, you're sure to **learn**, **create**, and **have fun**! Happy hacking! 🚀🎄
+✨ No matter which track you choose, you're sure to **learn**, **create**, and **have fun**—and who knows, you might just **emerge as a winner**! Happy hacking! 🚀🎄
 
