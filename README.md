@@ -8,20 +8,6 @@ Day 1 of our hack consists of **two unique challenges**. Select one based on you
     <img src="https://github.com/user-attachments/assets/70c5a383-28ee-4acd-a2c4-f95a79afca20" alt="Challenge Image" width="500">
 </div>
 
-<button onclick="selectChallenge()">Randomly Select Your Challenge</button>
-<p id="challenge"></p>
-<script>
-    function selectChallenge() {
-        const challenges = [
-            "🎨 Track A: AI-Powered Creativity and Storytelling",
-            "🤖 Track B: Intelligent Collaboration and Interaction"
-        ];
-        const randomChallenge = challenges[Math.floor(Math.random() * challenges.length)];
-        document.getElementById("challenge").innerText = randomChallenge;
-    }
-</script>
-
-
 ---
 
 ## 🛤️ **Track A: AI-Powered Creativity and Storytelling**
