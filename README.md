@@ -41,7 +41,7 @@ Day 1 consists of **two exciting challenges**, with an **extended 4-hour window*
 ## 🛤️ Track C: Memes and Marketing (Day 2)
 - **Goal:** Build an **AI Marketing Maestro** that accepts user inputs, such as text prompts and brand assets, to generate platform-specific marketing content. This includes visuals and text for social media platforms like Instagram and LinkedIn while ensuring brand consistency.  
 - **Perfect for:** Those who enjoy **creative marketing**, **content generation**, and using **multimodal AI tools**.  
-📝 [Read the Challenge Description for Track C](./03.md)
+📝 [Read the Challenge Description for Track C](./02.md)
 
 ---
 
