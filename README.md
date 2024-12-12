@@ -22,7 +22,20 @@ Day 1 consists of **two exciting challenges**, with an **extended 4-hour window*
 </div>
 
 ---
-# Day 1
+# Day 2 Challenge
+
+## 🛤️ Track C: Memes and Marketing (Day 2)
+- **Goal:** Build an **AI Marketing Maestro** that accepts user inputs, such as text prompts and brand assets, to generate platform-specific marketing content. This includes visuals and text for social media platforms like Instagram and LinkedIn while ensuring brand consistency.  
+- **Perfect for:** Those who enjoy **creative marketing**, **content generation**, and using **multimodal AI tools**.  
+📝 [Read the Challenge Description for Track C](./02.md)
+
+---
+---
+
+# Day 1 Challenges (Extended for 4 more hours!!)
+
+Pick any one of the tracks:
+
 ## 🛤️ Track A: AI-Powered Creativity and Storytelling (Day 1)
 - **Goal:** Build a **manga strip generator** that transforms a story prompt into a cohesive narrative with visuals.  
 - **Perfect for:** Those who love **storytelling**, **design**, and working with **generative AI models**.  
@@ -34,14 +47,6 @@ Day 1 consists of **two exciting challenges**, with an **extended 4-hour window*
 - **Goal:** Train a **visual AI model** using **Intel Geti** and create a holiday-themed project with AI-powered insights.  
 - **Perfect for:** Those who enjoy **hands-on computer vision projects** and **collaborative AI tools**.  
 📝 [Read the Challenge Description for Track B](./01_b.md)
-
----
-# Day 2
-
-## 🛤️ Track C: Memes and Marketing (Day 2)
-- **Goal:** Build an **AI Marketing Maestro** that accepts user inputs, such as text prompts and brand assets, to generate platform-specific marketing content. This includes visuals and text for social media platforms like Instagram and LinkedIn while ensuring brand consistency.  
-- **Perfect for:** Those who enjoy **creative marketing**, **content generation**, and using **multimodal AI tools**.  
-📝 [Read the Challenge Description for Track C](./02.md)
 
 ---
 
