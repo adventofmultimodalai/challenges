@@ -10,18 +10,33 @@ Day 1 consists of **two exciting challenges**, with an **extended 4-hour window*
 
 ---
 
-## ⏳ **⚡️ Extended Hours for Day 1 Challenges! ⚡️** ⏳
+## ⏳ **⚡️ Extended Hours for Day 2 Challenge! ⚡️** ⏳
 
 🎉 **Great news!** We've extended the deadline for **Day 1 challenges** by an additional **4 hours**!  
 🎯 If you're still working on **Track A** or **Track B**, you now have extra time to complete your submission.  
 
-✨ **Already submitted?** Move on to the exciting **Day 2 challenge in Track C**!  
+✨ **Already submitted?** Move on to the exciting **Day 3 - The Final Challenge!**!  
 
 <div align="center" style="font-size: small;">
     <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" alt="Time Extension" width="300">
 </div>
 
 ---
+
+# Day 3 Final Challenge
+
+## 🛤️ Open Challenge
+
+Day 3 is your chance to explore your creativity and innovation! This **open challenge** allows participants to leverage the tools, APIs, and experience from previous challenges to design and implement their own generative AI application. 
+
+You can:
+- **Extend a Day 1 or Day 2 project**: Refine or expand on challenges like manga creation or marketing content generation.
+- **Create something entirely new**: Conceptualize and build a unique application that aligns with the **hackathon theme**.
+
+📝 [Read the Challenge Description and Requirements](./final.md)
+This challenge is open-ended, so the possibilities are endless!
+
+___
 # Day 2 Challenge
 
 ## 🛤️ Track C: Memes and Marketing (Day 2)
